@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # News Sentiments
 
@@ -549,7 +549,3 @@ plt.show()
 ```python
 
 ```
-=======
-# News-Sentiments
-A visualization of the last 100 tweets of popular news outlets.  
->>>>>>> 74d0f260b7c1db5dae068dfcba8426e9457acc47
